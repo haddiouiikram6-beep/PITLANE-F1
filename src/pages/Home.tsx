@@ -191,7 +191,7 @@ const Home = () => {
         </section>
 
         {/* Featured Content / Full Calendar Preview */}
-        <section className="py-24 px-6 md:px-10 border-t border-white/5 bg-black/20">
+        <section className="py-24 px-6 md:px-10 border-t border-white/5 bg-black/20 section-reveal">
           <div className="max-w-7xl mx-auto">
             <div className="mb-12 flex justify-between items-end">
               <div>

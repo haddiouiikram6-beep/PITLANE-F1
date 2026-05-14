@@ -9,7 +9,7 @@
     "circuitLength": "5.412 km",
     "raceDate": "2026-03-05",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1594142144365-946358c2e399?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Bahrain&image_size=landscape_16_9",
     "description": "The seasonal opener under floodlights. A desert oasis of speed and tactical tire management."
   },
   {
@@ -22,7 +22,7 @@
     "circuitLength": "6.174 km",
     "raceDate": "2026-03-19",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1614208041021-cf7154562419?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Saudi%20Arabia&image_size=landscape_16_9",
     "description": "The fastest street circuit on the calendar, winding through the Jeddah waterfront."
   },
   {
@@ -35,7 +35,7 @@
     "circuitLength": "5.278 km",
     "raceDate": "2026-04-02",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1600706432502-77a0e2e327fc?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Australia&image_size=landscape_16_9",
     "description": "The high-speed parkland blast around Melbourne's iconic lake."
   },
   {
@@ -48,7 +48,7 @@
     "circuitLength": "5.451 km",
     "raceDate": "2026-04-16",
     "sprintWeekend": true,
-    "heroImage": "https://images.unsplash.com/photo-1506450966953-74d11f9aa7ca?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20China&image_size=landscape_16_9",
     "description": "A technical masterpiece featuring the longest straight on the calendar."
   },
   {
@@ -61,7 +61,7 @@
     "circuitLength": "5.412 km",
     "raceDate": "2026-05-03",
     "sprintWeekend": true,
-    "heroImage": "https://images.unsplash.com/photo-1563203369-2a912bb64eb6?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20USA&image_size=landscape_16_9",
     "description": "Glitz, glamour, and grueling heat around the Hard Rock Stadium."
   },
   {
@@ -74,7 +74,7 @@
     "circuitLength": "4.909 km",
     "raceDate": "2026-05-17",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Italy&image_size=landscape_16_9",
     "description": "Old-school charm meets high-speed curves in the heart of Motor Valley."
   },
   {
@@ -87,7 +87,7 @@
     "circuitLength": "3.337 km",
     "raceDate": "2026-05-24",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1627672223707-ea654cb6c525?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Monaco&image_size=landscape_16_9",
     "description": "The crown jewel. A narrow, high-stakes battle through the streets of Monte Carlo."
   },
   {
@@ -100,7 +100,7 @@
     "circuitLength": "4.657 km",
     "raceDate": "2026-06-07",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1519750783826-e2420f4d687f?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Spain&image_size=landscape_16_9",
     "description": "The ultimate test of aerodynamic efficiency."
   },
   {
@@ -113,7 +113,7 @@
     "circuitLength": "4.361 km",
     "raceDate": "2026-06-21",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1570115162124-76228392576b?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Canada&image_size=landscape_16_9",
     "description": "A high-speed dance between walls on the island of Notre Dame."
   },
   {
@@ -126,7 +126,7 @@
     "circuitLength": "4.318 km",
     "raceDate": "2026-07-05",
     "sprintWeekend": true,
-    "heroImage": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Austria&image_size=landscape_16_9",
     "description": "Short, fast, and undulating through the Styrian mountains."
   },
   {
@@ -139,7 +139,7 @@
     "circuitLength": "5.891 km",
     "raceDate": "2026-07-19",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1594918352611-f199859f7df8?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20UK&image_size=landscape_16_9",
     "description": "The home of British motorsport. High-speed, high-drama."
   },
   {
@@ -152,7 +152,7 @@
     "circuitLength": "4.381 km",
     "raceDate": "2026-08-02",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Hungary&image_size=landscape_16_9",
     "description": "Twisty, technical, and often blisteringly hot."
   },
   {
@@ -165,7 +165,7 @@
     "circuitLength": "7.004 km",
     "raceDate": "2026-08-30",
     "sprintWeekend": true,
-    "heroImage": "https://images.unsplash.com/photo-1627672223707-ea654cb6c525?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Belgium&image_size=landscape_16_9",
     "description": "The rollercoaster through the Ardennes forest."
   },
   {
@@ -178,7 +178,7 @@
     "circuitLength": "4.259 km",
     "raceDate": "2026-09-06",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1563203369-2a912bb64eb6?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Netherlands&image_size=landscape_16_9",
     "description": "Banking curves and orange passion by the North Sea."
   },
   {
@@ -191,7 +191,7 @@
     "circuitLength": "5.793 km",
     "raceDate": "2026-09-13",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Italy&image_size=landscape_16_9",
     "description": "The Temple of Speed. Maximum velocity, minimum wing."
   },
   {
@@ -204,7 +204,7 @@
     "circuitLength": "6.003 km",
     "raceDate": "2026-09-27",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1614208041021-cf7154562419?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Azerbaijan&image_size=landscape_16_9",
     "description": "Winding through old city walls and world-record straights."
   },
   {
@@ -217,7 +217,7 @@
     "circuitLength": "4.940 km",
     "raceDate": "2026-10-18",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Singapore&image_size=landscape_16_9",
     "description": "A night race spectacle through the heart of Singapore."
   },
   {
@@ -230,7 +230,7 @@
     "circuitLength": "5.513 km",
     "raceDate": "2026-10-25",
     "sprintWeekend": true,
-    "heroImage": "https://images.unsplash.com/photo-1563203369-2a912bb64eb6?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20USA&image_size=landscape_16_9",
     "description": "Everything is bigger in Texas. COTA delivers high-speed turns and steep climbs."
   },
   {
@@ -243,7 +243,7 @@
     "circuitLength": "4.304 km",
     "raceDate": "2026-11-01",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Mexico&image_size=landscape_16_9",
     "description": "The high-altitude carnival in the heart of Mexico City."
   },
   {
@@ -256,7 +256,7 @@
     "circuitLength": "4.309 km",
     "raceDate": "2026-11-15",
     "sprintWeekend": true,
-    "heroImage": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Brazil&image_size=landscape_16_9",
     "description": "The home of legends. Passionate fans and unpredictable weather."
   },
   {
@@ -269,7 +269,7 @@
     "circuitLength": "6.201 km",
     "raceDate": "2026-11-22",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1581351123004-757df051db8e?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20USA&image_size=landscape_16_9",
     "description": "Racing past neon landmarks on the world's most famous strip."
   },
   {
@@ -282,7 +282,7 @@
     "circuitLength": "5.419 km",
     "raceDate": "2026-11-29",
     "sprintWeekend": true,
-    "heroImage": "https://images.unsplash.com/photo-1594918352611-f199859f7df8?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20Qatar&image_size=landscape_16_9",
     "description": "High-speed flow under the desert sky."
   },
   {
@@ -295,7 +295,7 @@
     "circuitLength": "5.281 km",
     "raceDate": "2026-12-13",
     "sprintWeekend": false,
-    "heroImage": "https://images.unsplash.com/photo-1506450966953-74d11f9aa7ca?auto=format&fit=crop&q=80&w=1200",
+    "heroImage": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Formula%201%20race%20car%20speeding%20on%20track%20in%20UAE&image_size=landscape_16_9",
     "description": "The season finale at the twilight of the year."
   }
 ]
